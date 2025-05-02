@@ -6,9 +6,9 @@ This repository contains the code and resources for our course project on traffi
 
 ## Repository Contents
 
-* `cnn_models.py`: Contains all CNN architectures trained and tested on GTSRB and stock images.
-* `pretrained_with_yolo.py`: Recommended detector-recognition pipeline, uses YOLOv8 + pretrained CNN.
-* `four_conv+yolo.py`: Final custom built detector-recognition pipeline using YOLOv8 + 4-layer CNN, includes brightness enhancement.
+* `cnn_models.ipynb`: Contains all CNN architectures trained and tested on GTSRB and stock images.
+* `pretrained_with_yolo.ipynb`: Recommended detector-recognition pipeline, uses YOLOv8 + pretrained CNN.
+* `four_conv+yolo.ipynb`: Final custom built detector-recognition pipeline using YOLOv8 + 4-layer CNN, includes brightness enhancement.
 * `weights/`: Folder containing `.pth` and `.pt` weight files for CNNs and YOLOv8.
 * `Stock Images/`: Custom traffic sign images used for validation on real-world samples.
 
