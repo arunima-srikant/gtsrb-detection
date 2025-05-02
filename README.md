@@ -68,6 +68,6 @@ Project Partner: Ananya Chenny Rahul
 
 Pretrained Model Reference:
 Portions of the pretrained CNN model were adapted from the repository:
-[https://github.com/Aravindlivewire/CNN-for-traffic-sign-recognition](https://github.com/poojahira/gtsrb-pytorch)
+[https://github.com/poojahira/gtsrb-pytorch]
 
 Special thanks to the authors of the GTSRB dataset and the creators of YOLOv8 for enabling powerful computer vision experimentation.
